@@ -1,0 +1,35 @@
+.navbar-brand {
+  margin-right: 0;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  justify-content: end;
+}
+
+.right-side {
+  margin: 0;
+  margin-left: 15px;
+  padding: 7px 11px;
+  border-right: 5px solid #019fe9;
+  border-left: 0;
+  width: 200px;
+  text-align: justify;
+}
+.right-side h4 {
+  direction: ltr;
+}
+.right-side h4 img {
+  margin-right: -30px;
+  margin-left: 0;
+  float: right;
+}
+
+.headerimg {
+  width: 100%;
+}
+
+
+footer button[type="submit"] {
+
+  margin-left: 0px;
+}
